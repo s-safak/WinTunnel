@@ -1,0 +1,9 @@
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\bin\Debug\WinTunnel.exe
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\bin\Debug\WinTunnel.pdb
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\WinTunnel.ProjectInstaller.resources
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\WinTunnel.WinTunnel.resources
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\ResGen.read.1.tlog
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\ResGen.write.1.tlog
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\WinTunnel.exe
+C:\Users\SSAFAK\Desktop\WinTunnel\WinTunnel\obj\Debug\WinTunnel.pdb
